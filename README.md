@@ -9,21 +9,6 @@
 
 ---
 
-## 📋 Table of Contents
-- [Overview](#overview)
-- [Features](#features)
-- [Hardware Components](#hardware-components)
-- [System Architecture](#system-architecture)
-- [Circuit Design](#circuit-design)
-- [Software](#software)
-- [Setup Instructions](#setup-instructions)
-- [Results & Validation](#results--validation)
-- [Usage Guide](#usage-guide)
-- [Future Improvements](#future-improvements)
-- [License](#license)
-- [Contact](#contact)
-
----
 
 ## 🎯 Overview
 
