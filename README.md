@@ -761,7 +761,7 @@ This device is intended for educational and research purposes only. It is NOT a 
 
 **Joel Jacob**
 - 📧 Email: joeljacob1254@gmail.com
-- 💼 LinkedIn: [linkedin.com/in/joeljacob](https://linkedin.com/in/joeljacob)
+- 💼 LinkedIn: [linkedin.com/in/joeljacob](https://www.linkedin.com/in/joeljacob1254/)
 - 🐙 GitHub: [@yourusername](https://github.com/yourusername)
 - 📱 Phone: +91 9846396477
 
